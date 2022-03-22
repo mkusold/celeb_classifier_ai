@@ -4,7 +4,9 @@ A simple public deployment of a basic classifier model that differentiates betwe
 
 Jupyter visualization provided by Voila and deployed by Binder.
 
-Check out the site [here](https://mybinder.org/v2/gh/mkusold/celeb_classifier_ai/main?urlpath=%2Fvoila%2Frender%2Fpitt_vs_bushemi_app.ipynb)
+Check out the site [here](https://mybinder.org/v2/gh/mkusold/celeb_classifier_ai/HEAD?labpath=.%2Fpitt_vs_bushemi_app)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mkusold/celeb_classifier_ai/HEAD?labpath=.%2Fpitt_vs_bushemi_app)
 
 ## Running locally
 
